@@ -304,5 +304,5 @@ One-piece, all-wood construction. Any type of lamination results in disqualifica
 - Wheels must be made entirely from plastic.
 - Dimensions must be consistent for the full circumference of the wheel.
 ## Evaluation
-- Evaluation for time trials is based on the speed of the cars.
+- Evaluation for time trials is based on the speed of the car.
 - The three fastest dragsters in each category.
