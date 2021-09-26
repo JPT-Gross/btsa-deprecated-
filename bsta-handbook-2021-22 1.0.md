@@ -28,7 +28,7 @@ Build, fly, and adjust (trim) a model to make long endurance flights inside a co
 8.	No repairs are allowed after time trials begin.
 9.	Each participant has the times of two (2) official flights recorded by the timer.
 ## Regulations
-1.	Models are to be made of wood and tissue paper for fuselage and flying surfaces (wings, fin and stabilizer). No plastic foams, films, or condenser paper are allowed.
+1.	Models are to be made of wood and tissue paper for fuselage and flying surfaces (wings, fin, and stabilizer). No plastic foams, films, or condenser paper are allowed.
 2.	Models use a commercially available plastic propeller or propeller assembly: minimum of 140mm to a maximum of 170mm in diameter. Trimming or thinning propellers is allowed to achieve balance and/or to reduce weight.
 3.	Fuselage dimension: minimum of 300mm in length measured with prop assembly attached.
 4.	Wingspan: maximum of 50cm horizontally projected, wing chord 12cm projected.
@@ -37,9 +37,9 @@ Build, fly, and adjust (trim) a model to make long endurance flights inside a co
 6.	Steel wire may be used only for propeller shaft, motor hook, and landing gear.
 7.	The two wheels must be a minimum of 15mm in diameter of plastic or wood and they must roll.
 8.	Acceptable flight support equipment includes the following:
-9.	Mechanical rubber motor winders (Electricity may not be available at every site.)
-10.	A winding stooge may be used to anchor the model while its motor is being wound.
-11.	The landing gear must support the airplane without sagging in its rested position.  
+    1.	Mechanical rubber motor winders (Electricity may not be available at every site).
+    2.	A winding stooge may be used to anchor the model while its motor is being wound.
+    3.	The landing gear must support the airplane without sagging in its rested position.  
 ## Evaluation
 - Evaluation is based on the duration of flight. A bonus of ten (10) seconds is added to the flight time per flight if the airplane successfully lands on its wheels and comes to a rest on its wheels.  
 - The times posted during the time trials are used to determine the three (3) top times.  
@@ -73,7 +73,7 @@ Using necessary materials, participants will build a rocket out of plastic soda 
 -	NO water bottles.  
 -	NO PVC or metal pipes.  
 ## Evaluation
-Launch will be timed with a stopwatch from initial launch until the rocket hits the ground. Rockets that land on roof tops or get stuck in trees their time ends when the rocket touches an obstruction, or leaves the
+Launch will be timed with a stopwatch from initial launch until the rocket hits the ground. Rockets that land on roof tops or get stuck in trees their time ends when the rocket touches an obstruction or leaves the
 sight of the judge.
 # Logo Design 
 ## Overview
@@ -239,7 +239,7 @@ Regulations
 - Undamaged wheels that come off during the event may be replaced as determined by the event coordinator. 
 - All CO2 cartridges for the race are provided by national BSTA.
 - Dragsters that do not meet the following specifications/tolerances are disqualified from 	the race.
-## Dragster body
+## Dragster Body
 One-piece, all-wood construction. Any type of lamination results in disqualification. No add-ons such as body strengtheners, fenders, plastic canopy, exhausts, or air foils may be attached to or enclosed within the vehicle. Fiberglass and shrink wrap are considered body strengtheners and cannot be used on the car body for any reason. Decals may be used for decoration only; they may not be used to gain an aerodynamic advantage, i.e., decals cannot cover the exterior axle holes or be used to cover open areas of the body. Two (2) or more like or unlike pieces of wood glued together are not considered one-piece, all-wood construction.
 ## Specifications
 ### Body
@@ -304,5 +304,5 @@ One-piece, all-wood construction. Any type of lamination results in disqualifica
 - Wheels must be made entirely from plastic.
 - Dimensions must be consistent for the full circumference of the wheel.
 ## Evaluation
-- Evaluation for time trials is based on the speed of the car.
+- Evaluation for time trials is based on the speed of the cars.
 - The three fastest dragsters in each category.
