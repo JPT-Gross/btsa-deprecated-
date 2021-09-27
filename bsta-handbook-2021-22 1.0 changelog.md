@@ -30,7 +30,7 @@ carefully. This challange is no longer a search and rescue challange is now a
 VEX Robotics competition.
 ## Bridge Design
 - Procedure 5. Removed. Test plate will not be glued to bridge.
-- Material Regulations. Glue changed to "Green Pitsco Structures Glue only"
-make judging easier.
+- Material Regulations. Glue changed to "Green Pitsco Structures Glue only" make
+ judging easier.
 ## Co2 Dragster
 - No noteable revisions.
