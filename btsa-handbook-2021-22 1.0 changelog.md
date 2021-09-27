@@ -1,4 +1,4 @@
-# BSTA Handbook 2021-22 1.0 CHANGELOG
+# BTSA Handbook 2021-22 1.0 CHANGELOG
 ## Flight Endurance
 - Procedure 7. "come to rest on" changed to "touch" to avoid students purposely
 colliding with obstructions to slow their aircraft's descent.  
