@@ -32,3 +32,5 @@ VEX Robotics competition.
 - Procedure 5. Removed. Test plate will not be glued to bridge.
 - Material Regulations. Glue changed to "Green Pitsco Structures Glue only"
 make judging easier.
+## Co2 Dragster
+- No noteable revisions.
