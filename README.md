@@ -128,7 +128,7 @@ Participants will provide their own projectile, enabling the device to be tuned 
 - All points will be combined to give the final score, highest score wins.
 - Scoring Formula: a * (d - 6) where "a" is the accuracy score according to Procedure point 4. and "d" is distance measured in feet. Example: a bullseye hit at 10 feet would be 5*(10-6) = **20** points.
 #### Figure 1a
-![Trebuchet Scoring Diagram](fig-1a.png "Trebuchet Scoring Diagram")
+![Trebuchet Scoring Diagram](images/fig-1a.png "Trebuchet Scoring Diagram")
 ## Robotics - VEX Spin-Up
 ### Overview
 Students will demonstrate their robotics design, building, programming, and driving skills through the VEX Robotics Spin-Up competition format
