@@ -181,7 +181,7 @@ Students are only allowed to use the following materials.
 ## Bridge Specifications
 |  |  |
 |:---|---:|
-| Overall Length | 12-inch MAX (+/- .125 inch) |
+| Overall Length | 10-inch MAX (+/- .125 inch) |
 | Span | 6 inch - between abutments (+/- .125 inch) |
 | Width	| 3" MAX (+/- .125 inch) |
 | Superstructure Height | 1-inch MIN. |
