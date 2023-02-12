@@ -1,7 +1,5 @@
 # 2022-23 Broward Student Technology Association (BSTA) High School Competition Handbook
-<!---
 ![Broward Technology Student Association](images/TSA_logo.png "Broward Technology Student Association")
---->
 ## Table of Contents
 1. Aerospace - Flight Challenge
 2. Aerospace - Hydro Rockets
