@@ -140,7 +140,7 @@ Must be designed and constructed during current school year.
 ### Evaluation
 \*  
 ***
-  \* *All the 2022-23 VEX Robotics rules will be used. You can find these rules on the VEX and RECF websites: https://content.vexrobotics.com/docs/2022-2023/vrc-spin-up/VRC-SpinUp-GameManual-2.0.pdf*
+  \* *All the 2022-23 VEX Robotics rules will be used. You can find these rules on the VEX and RECF websites: https://content.vexrobotics.com/docs/2022-2023/vrc-spin-up/VRC-SpinUp-GameManual-3.pdf*
 ## Bridge Design 
 ### Overview
 Using the necessary materials provided, participants will build a model of their structure while working at their school. These structures will be destructively tested on the BSTA site to determine the efficiency of their design.
