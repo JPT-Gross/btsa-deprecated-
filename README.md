@@ -160,6 +160,7 @@ School Entries are limited to five (5) - one (1) person teams.
 Students are only allowed to use the following materials. 
 -	1/8" x 1/8" Balsawood Sticks - Available from Pitsco or Midwest Solutions.
 -	Glue - Green Pitsco Structures Glue only - Glue may not be applied to the structure as coating, it may only be applied at the joints or along Lamination Lines.
+-   Cardstock
 -	Material quantities are not limited for this competition. (Please note evaluation method)
 - No painting or coating wood pieces.
 ### Bridge Specifications
